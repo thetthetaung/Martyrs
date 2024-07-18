@@ -1,0 +1,28 @@
+.nav-link:hover{
+    color:rgba(0, 0, 0, 0.687) !important;
+}
+.carousel{
+    border:1px solid red;
+}
+.carousel-control-prev,.carousel-control-next{
+    background-color: red !important;
+}
+.carousel-control-prev-icon{
+    font-style: bold;
+    font-weight: 700 !important;
+}
+.martyrs-text::first-letter{
+    font-size:25px;
+    text-align: justify;
+}
+.card img{
+    height: 400px;
+}
+.card{
+    border:1px solid red;
+}
+#accordion .card-header{
+    background-color: red;
+    color: white;
+    border:1px solid #000;
+}
